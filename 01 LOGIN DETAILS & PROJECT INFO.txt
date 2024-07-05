@@ -10,13 +10,13 @@ username : admin
 Password : Admin@123
 
 *Admin of Banking Login *
-Email	: admin@mail.com
+Email	: admin@gmail.com
 Password : admin.com
 
 
 *Staff Login *
 
-Email	: staff@mail.com
+Email	: staff@gmail.com
 Password  : staff.com
 
 
