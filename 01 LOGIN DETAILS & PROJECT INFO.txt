@@ -1,0 +1,22 @@
+**Database Name: cultivateHUB**
+
+**Recommended : PHP Version 5/7/8 , Wampp or Xampp Server**
+
+**Admin Login Details**
+
+*Admin of all Login*
+ 
+username : admin
+Password : Admin@123
+
+*Admin of Banking Login *
+Email	: admin@mail.com
+Password : admin.com
+
+
+*Staff Login *
+
+Email	: staff@mail.com
+Password  : staff.com
+
+
