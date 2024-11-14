@@ -1,6 +1,6 @@
 <?php
 // connect to the database
-$conn = mysqli_connect('localhost', 'root', '', 'cultivateDB');
+$conn = mysqli_connect('localhost', 'root', '', 'cultivateHub');
 $sql = "SELECT * FROM tbllandfiles";
 $result = mysqli_query($conn, $sql);
 
